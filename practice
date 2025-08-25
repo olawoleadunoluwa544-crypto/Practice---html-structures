@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<hltml>
+    <head> 
+        <title> Animals </title>
+        </head>
+        <body>
+            <h1> ANIMALS </h1>
+            <p>Sourced from google</p><blockquote>An animal is a living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli</blockquote>
+            <p>There are different kinds of animals such as - Mollusks, insects, crustateans, arachnids, fishes, amphibians, reptiles, mammals and birds.</p>
+            <h2>Mollusks</h2>
+            <p>Mollusks are a group of <B>invertebrate </B>animals with soft, <strong>unsegmented</strong> bodies, often <mark>protected by a hard shell such as clams snails an mussels.</mark></p>
+            <h2>Insects</h2>
+            <p> Insects are a group of <b>invertibrate</b> animals </p>
+         characterised by a <mark>three part, six  legs and typically one or two pairs or wings</mark> making them the most diverse group of animals on earth. Exmaplea are - bees, flies, butterflies, ants etc
+        </body>
